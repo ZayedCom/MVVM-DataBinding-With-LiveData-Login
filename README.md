@@ -380,6 +380,4 @@ public class MainActivity extends AppCompatActivity {
 
 Hopefully this guide should have helped you in making your tasks really easier in terms of many things, such as: eliminating **findViewById(...)** and many more.
 
-Feel free to reach me at any time on [LinkedIn](https://www.linkedin.com/in/umangburman/)
-
 
